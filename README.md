@@ -1,5 +1,8 @@
+# Aarogya Mitra – Multilingual AI Health Assistant
 
-# Aarogya Mitra – Multilingual AI Health Assistant<img width="128" height="128" alt="azure" src="https://github.com/user-attachments/assets/1fd2c623-eaac-4e92-9c7a-eb9f81990b04" />
+
+
+<img width="128" height="128" alt="azure" src="https://github.com/user-attachments/assets/1de2a91b-127a-4698-9d48-235968c678e0" />
 
 
 ## Overview
